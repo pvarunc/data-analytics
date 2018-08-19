@@ -153,4 +153,6 @@ students %>% group_by(course,gender) %>% summarise(mean(marks1), min(marks2), ma
 
 
 
+
+
 #array-----
