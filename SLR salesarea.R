@@ -143,3 +143,9 @@ summary(fit1)
 #End of Simple Linear Regression
 #Do different SLR on different data sets
 #Learn what to do if there are violations of assumptions
+
+
+
+
+
+
