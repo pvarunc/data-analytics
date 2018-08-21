@@ -14,3 +14,12 @@ y
 y
 
 install.packages('dplyr')
+
+library(dplyr)
+
+library(modeest)
+
+mlv(x,method='shorth')
+
+quantile(x)
+quantile(x,seq(.1,1,by=.1))
